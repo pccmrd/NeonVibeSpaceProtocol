@@ -3,3 +3,6 @@ Vibe coded a nice space arcade shooter with new Qwen4 Max. Very smooth on androi
 
 Install:
 just place neon_vibe_sp.html file from the distro anywhere and open it in browser. Tested on fresh Chrome on Android 15.
+
+Link to game file: 
+https://github.com/pccmrd/NeonVibeSpaceProtocol/blob/main/neon_vibe_sp.html
